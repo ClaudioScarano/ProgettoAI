@@ -1,14 +1,14 @@
 # ************************************************************************************************************** #
 #                                                                                                                #
 # Autore : Claudio Scarano                                                                                       #
-# Email  : c.scarano1@students.uninettunouniversity.net                                                          #
+# Email  : //                                                                                                    #
 # Matr   : 475HHHINGINFOR                                                                                        #
 #                                                                                                                #
 #                                                                                                                #
 # Convolutional Neural Networks (CNN)                                                                            #
 # Rilevamento del volto utilizzando una Deep neural network Convolutional neural network (CNN) con OpenCV e dlib #
 #                                                                                                                #
-# Descrizione : modulo codifica volti                                                                         #
+# Descrizione : modulo codifica volti                                                                            #
 # Il codice principale del rilevamento del volto utilizzando la Convolutional neural network (CNN):              #
 # una classe delle reti neurali profonde                                                                         #
 # ************************************************************************************************************** #
