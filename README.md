@@ -63,3 +63,5 @@ Struttura del programma:
 ## Run by PyCharm IDE:
 <img src="https://github.com/ClaudioScarano/ProgettoAI/blob/9fc37aac83f011fb10c13d97faa50def534f0bce/pycharm.jpeg">
 
+## Struttura root: 
+<img src="https://github.com/ClaudioScarano/ProgettoAI/blob/master/struttura%20cartella.JPG">
