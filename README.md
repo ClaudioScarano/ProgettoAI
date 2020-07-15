@@ -2,9 +2,9 @@
  Convolutional Neural Networks (CNN)                                                                            
  Rilevamento del volto utilizzando una Deep neural network Convolutional neural network (CNN) con OpenCV e dlib 
                                                                                                                 
- Descrizione : modulo codifica_volti.py                                                                         
+ Descrizione :                                                                        
  Il codice principale del rilevamento del volto utilizzando la Convolutional neural network (CNN):              
- una classe delle reti neurali profonde                                                                         
+ una classe delle reti neurali profonde (DNN)                                                                       
  
 
 
