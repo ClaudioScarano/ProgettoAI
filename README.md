@@ -48,11 +48,5 @@ import os</li>
 <p><code>pip install imutils</code></p>
 <p><code>pip install argparse</code></p>
 
-Si raccomanda di compilare dlib con cmake con supporto CUDA e con il modulo CuDNN e successivamente installarlo
+Si raccomanda di compilare dlib con cmake con il supporto CUDA e con il modulo CuDNN e successivamente installarlo
 La GPU rende magnificamente rispetto alla CPU.
-
-
-
-## Run by PyCharm IDE:
-
-<img src="">
