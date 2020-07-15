@@ -50,3 +50,16 @@ import os</li>
 
 Si raccomanda di compilare dlib con cmake con il supporto CUDA e con il modulo CuDNN e successivamente installarlo
 La GPU rende magnificamente rispetto alla CPU.
+
+## USAGE 
+Struttura del programma:
+
+1) Utilizzare inizialmente il file encode_faces.py per addestrare il modello, verrà generato il file pickle con i volti serializzati.
+
+2) Successivamente utilizzare recognize_faces_video.py per procedere con il face recognition.
+
+3) Enjoy :)
+
+## Run by PyCharm IDE:
+<img src="https://github.com/ClaudioScarano/ProgettoAI/blob/9fc37aac83f011fb10c13d97faa50def534f0bce/pycharm.jpeg">
+
